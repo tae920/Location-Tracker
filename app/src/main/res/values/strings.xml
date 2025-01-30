@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SampleAssignment1</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_direction">DirectionActivity</string>
+</resources>
